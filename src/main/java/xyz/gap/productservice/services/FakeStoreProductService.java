@@ -1,8 +1,7 @@
-package com.scaler.productservice.services;
+package xyz.gap.productservice.services;
 
-import com.scaler.productservice.dtos.FakeStoreProductResponseDto;
-import com.scaler.productservice.dtos.ProductResponseDto;
-import com.scaler.productservice.models.Product;
+import xyz.gap.productservice.dtos.FakeStoreProductResponseDto;
+import xyz.gap.productservice.models.Product;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 

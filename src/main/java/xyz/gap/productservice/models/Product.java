@@ -1,4 +1,4 @@
-package com.scaler.productservice.models;
+package xyz.gap.productservice.models;
 import lombok.*;
 
 

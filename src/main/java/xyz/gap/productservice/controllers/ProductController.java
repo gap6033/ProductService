@@ -1,7 +1,7 @@
-package com.scaler.productservice.controllers;
-import com.scaler.productservice.dtos.ProductResponseDto;
-import com.scaler.productservice.models.Product;
-import com.scaler.productservice.services.ProductService;
+package xyz.gap.productservice.controllers;
+import xyz.gap.productservice.dtos.ProductResponseDto;
+import xyz.gap.productservice.models.Product;
+import xyz.gap.productservice.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;

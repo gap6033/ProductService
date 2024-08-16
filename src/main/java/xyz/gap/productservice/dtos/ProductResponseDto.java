@@ -1,7 +1,7 @@
-package com.scaler.productservice.dtos;
+package xyz.gap.productservice.dtos;
 
-import com.scaler.productservice.models.Category;
-import com.scaler.productservice.models.Product;
+import xyz.gap.productservice.models.Category;
+import xyz.gap.productservice.models.Product;
 import lombok.Getter;
 import lombok.Setter;
 
